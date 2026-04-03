@@ -1,7 +1,7 @@
 # Hi there, I'm Kaan! 👋 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Full-Stack%20Developer&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=#00FF00&height=200&section=header&text=Full-Stack%20Developer&fontSize=70" />
 </p>
 
 ### 💫 About Me
@@ -24,18 +24,17 @@ I'm a **Software Engineering Student** and a developer who loves building creati
 ### 🏎️ Beyond Coding
 When I'm not at the cash register or behind the keyboard, you can find me:
 * 🔧 Researching modification ideas for **old-school Japanese cars**.
-* 🏍️ Exploring the **CG motorcycle** culture.
 * ✍️ Planning my next **tattoo** (current focus: a praying mantis).
 
 ---
 
 ### 📈 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=radical" alt="Kaan's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ozziwizard&show_icons=true&theme=radical" alt="Kaan's GitHub Stats" />
 </p>
 
 ---
 
 ### 🤝 Connect with me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](SENIN_LINKEDIN_LINKIN)
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:SENIN_MAIL_ADRESIN)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/oguz-göçer-74b5a63b0)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:oguzzgocer13@gmail.com)
