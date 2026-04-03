@@ -1,16 +1,16 @@
 # Hi there, I'm Kaan! 👋 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=#00FF00&height=200&section=header&text=Full-Stack%20Developer&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00BFFF&height=200&section=header&text=Full-Stack%20Developer&fontSize=70" />
 </p>
 
 ### 💫 About Me
-I'm a **Software Engineering Student** and a developer who loves building creative, user-centric applications. Whether it's a desktop pet or a web platform, I enjoy the process of turning logic into art.
+I'm a **Software Engineering Student** and a creative developer. I like to blend the logic of coding with the art of storytelling. Currently focused on building impactful web applications and exploring the depths of software architecture.
 
 - 🔭 **Currently working on:** **CoupleHub** (A platform for modern couples)
-- 🧪 **Recent Project:** A custom Desktop Pet application
-- ⚡ **Personality:** INFJ-T (The Advocate)
-- 🚗 **Off-duty:** JDM Enthusiast & Drift Culture follower
+- 🧪 **Creative Project:** Developing a custom Desktop Pet application
+- ⚡ **Personality:** INFJ-T (The Advocate) - Driven by passion and purpose.
+- 🚗 **Passion:** JDM Cars & Drift Culture.
 
 ---
 
@@ -21,10 +21,14 @@ I'm a **Software Engineering Student** and a developer who loves building creati
 
 ---
 
-### 🏎️ Beyond Coding
-When I'm not at the cash register or behind the keyboard, you can find me:
-* 🔧 Researching modification ideas for **old-school Japanese cars**.
-* ✍️ Planning my next **tattoo** (current focus: a praying mantis).
+### 🎨 Creative & Personal Interests
+Coding is just one part of my story. When I'm away from the screen, I'm busy with:
+* 🎬 **Screenwriting:** Writing and directing my own short stories and scenarios.
+* 🎵 **Music Theory:** Exploring and listening to the intricate world of musical notes.
+* ✍️ **Drawing:** Expressing ideas through sketches and visual art.
+* 📈 **Crypto Markets:** Following market trends and blockchain evolution.
+* 🎮 **Gaming:** Relaxing and finding inspiration in virtual worlds.
+* 🏎️ **JDM Culture:** Dreaming about modifications and classic Japanese engineering.
 
 ---
 
@@ -35,6 +39,6 @@ When I'm not at the cash register or behind the keyboard, you can find me:
 
 ---
 
-### 🤝 Connect with me
+### 🤝 Let's Connect
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/oguz-göçer-74b5a63b0)
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:oguzzgocer13@gmail.com)
