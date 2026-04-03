@@ -1,8 +1,5 @@
 # Hi there, I'm Kaan! 👋 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00BFFF&height=200&section=header&text=Full-Stack%20Developer&fontSize=70" />
-</p>
 
 ### 💫 About Me
 I'm a **Software Engineering Student** and a creative developer. I like to blend the logic of coding with the art of storytelling. Currently focused on building impactful web applications and exploring the depths of software architecture.
